@@ -14,7 +14,7 @@ const mi = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Solidity, Python, C#],
   tools: [React, NodeJS],
-  architecture: ["microservices", "lamda Functions"],
+  architecture: ["microservices", "lambda Functions"],
  }
 ```
 
